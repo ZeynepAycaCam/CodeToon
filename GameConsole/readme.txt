@@ -1,5 +1,3 @@
-Project Number: 2D
-
 CODETOON
 
 	Codetoon is a game that aims to teach basic java programming to the beginners by
@@ -28,12 +26,12 @@ database which we still work on.
 	Tools: IDE: NetBeans 8.2
 		    Eclipse Java Neon 3
 	       DataBase: Derbyclient
-	       Library: Java™ Platform, Standard Edition 7 API Specification
+	       Library: Javaâ„¢ Platform, Standard Edition 7 API Specification
 
-	Contributions: 	Data Base: Zeynep Nur Öztürk
+	Contributions: 	Data Base: Zeynep Nur Ã–ztÃ¼rk
 			GUI: Everyone
-			IDE: Zeynep Ayça Çam, Elif Beril Þayli
-			PLatform Game: Ebru Kerem, Pýnar Ekin Alparslan
+			IDE: Zeynep AyÃ§a Ã‡am, Elif Beril Ãžayli
+			PLatform Game: Ebru Kerem, PÃ½nar Ekin Alparslan
 	
 	Instructions: The database is opened with NetBeans 8.2.
 		      Connecting to the database in NetBeans 8.2.
