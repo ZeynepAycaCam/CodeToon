@@ -1,6 +1,6 @@
 # CODETOON
 
-	Codetoon is a game that aims to teach basic java programming to the beginners by
+Codetoon is a game that aims to teach basic java programming to the beginners by
 associating entertainment and coding, providing a new way of learning. It basicly consists 
 of two part, a 2D platform game on the left hand side and a basic IDE on the right hand side.
 Demolishing popular demands, the main character of the platform game part is a princess, who 
@@ -14,12 +14,12 @@ until she runs out of lives which makes the player to start the game all over ag
  correct, she becomes able to move again until coming across to the next obstacle. After completing 
 three levels, the game is finished.
 
-	Our game also includes java tutorial options that gives significant information about java
+Our game also includes java tutorial options that gives significant information about java
 programming and its subtitles to inform the beginner user before getting started. It also has a hint
 button which shows some specific tips and tricks to ease the problems.
 
 
-	Status: The game, the basic IDE and the database works fully seperately. Although the connection
+Status: The game, the basic IDE and the database works fully seperately. Although the connection
 is done between the game and the IDE, there are still mistakes in the connection between the IDE and the
 database which we still work on.
 
