@@ -23,17 +23,17 @@ Status: The game, the basic IDE and the database works fully seperately. Althoug
 is done between the game and the IDE, there are still mistakes in the connection between the IDE and the
 database which we still work on.
 
-	Tools: IDE: NetBeans 8.2
-	       Eclipse Java Neon 3
-	       DataBase: Derbyclient
-	       Library: Java™ Platform, Standard Edition 7 API Specification
+	Tools:          IDE: NetBeans 8.2
+	      	        Eclipse Java Neon 3
+	                DataBase: Derbyclient
+        		Library: Java™ Platform, Standard Edition 7 API Specification
 
 	Contributions: 	Data Base: Zeynep Nur Öztürk
 			GUI: Everyone
 			IDE: Zeynep Ayça Çam, Elif Beril Þayli
 			PLatform Game: Ebru Kerem, Pýnar Ekin Alparslan
 	
-	Instructions: The database is opened with NetBeans 8.2.
-		      Connecting to the database in NetBeans 8.2.
-		      The game code is opened with Eclipse Java Neon 3.
-		      Run the code in Eclipse Java Neon 3.
+	Instructions:   The database is opened with NetBeans 8.2.
+		        Connecting to the database in NetBeans 8.2.
+		        The game code is opened with Eclipse Java Neon 3.
+		        Run the code in Eclipse Java Neon 3.
