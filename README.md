@@ -24,7 +24,7 @@ is done between the game and the IDE, there are still mistakes in the connection
 database which we still work on.
 
 	Tools: IDE: NetBeans 8.2
-		    Eclipse Java Neon 3
+	       Eclipse Java Neon 3
 	       DataBase: Derbyclient
 	       Library: Java™ Platform, Standard Edition 7 API Specification
 
